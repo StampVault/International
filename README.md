@@ -1,0 +1,7 @@
+# StampVault: International
+
+**This is part of the stamp data used by [StampVault](https://github.com/StampVault/StampVault.git).**
+
+This repository contains the data for International. To use this data with StampVault, clone this repository into the `stamps/data` subdirectory of StampVault.
+
+See the documentation of [StampVault](https://github.com/StampVault/StampVault.git) for more information.
